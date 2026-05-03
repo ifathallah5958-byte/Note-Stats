@@ -1,0 +1,34 @@
+===== STATISTIQUES =====
+
+Cyber-securiter
+  Moyenne : 11.0
+  Minimum : 4.0
+  Maximum : 18.0
+
+Python
+  Moyenne : 14.25
+  Minimum : 8.0
+  Maximum : 19.0
+
+Anglais
+  Moyenne : 15.75
+  Minimum : 10.0
+  Maximum : 19.0
+
+Dev-web
+  Moyenne : 12.75
+  Minimum : 7.0
+  Maximum : 20.0
+
+===== CLASSEMENT =====
+1. ismail       Moyenne: 17.75  Mention: Excellent
+2. kamal        Moyenne: 15.25  Mention: Tres bien
+3. Mohssine     Moyenne: 12.25  Mention: Bien
+4. Zahra        Moyenne: 8.5  Mention: Faible
+
+===== GROUPES =====
+Excellent : ismail
+Tres bien : kamal
+Bien : Mohssine
+Assez bien : Aucun
+Faible : Zahra
